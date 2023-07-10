@@ -12,3 +12,5 @@ For example, with an email address of the form 'first.last-ext@domain.com', the 
 -   [snake-case](https://en.wiktionary.org/wiki/snake_case): first_last_ext
 -   [99l-case](#): first99last99ext
 -   [99u-case](#): First99Last99Ext
+
+To install in codecentric helm version of KeyCloak, you can create a configmap with the .jar file and input accordingly by using a subPath mount.
